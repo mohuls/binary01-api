@@ -1,0 +1,1 @@
+web: gunicorn binary01.wsgi
